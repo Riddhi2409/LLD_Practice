@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ATMSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BookMyShow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CarRentalSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Elevator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Elevator_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FileSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Heap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NotificationSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ParkingLot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PubSub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RateLimiter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Splitwise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VehicleRentalSystem_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VendingMachine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hashmap" vcs="Git" />
+  </component>
+</project>
